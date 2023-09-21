@@ -1,4 +1,5 @@
 # Card
+this card is a shoping card <br>
 this is card made using following technolodgy<br>
 1. html5<br>
 2. css3<br>
